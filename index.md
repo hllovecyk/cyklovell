@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+"./images/2.jpg"/
 
-You can use the [editor on GitHub](https://github.com/hllovecyk/cyklovell/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hllovecyk/cyklovell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>梦幻南泉，遇见Mr.right</title>
+    <style type="text/css">
+        body{
+            background-image:url(./images/0.jpg);
+            background-size:100% 100%;
+            height:100%;
+        }
+        html{
+            height:100%;
+        }
+       @keyframes myfirst{
+            from {opacity:0}
+            to {opacity:100}
+            }
+        h1,p{
+            animation:myfirst 1s infinite;
+        }
+    </style>
+</head>
+<body>
+<h1>和我家彦坤在一起已经206天啦！</h1>
+<p>此爱隔山海，山海皆可平</p>
+<p>甜蜜日常太多，无法一一记录</p>
+<p>哎呀是我心心念念朝思暮想恨不得瞬间移动到他面前亲亲他抱抱他然后24h腻在一起的世界上最好的我最钟意的无人可替的坤吗</p>
+<p>啊啊啊啊啊，世界上怎么会有这么好的男孩子，老夫的少女心啊！</p>
+<p>看到他疲惫受苦的样子，心疼死了</p>
+<p>喜欢他的任何样子，喜欢任何状态下任何时刻的他，甚至他的痘在我看来都是帅气，我中毒了</p>
+<p>他说，我说不出来特别好听华丽的话，只能用实际行动去好好爱你了</p>
+<p>他说，以后的每年每个节日都想和你一起度过</p>
+<p>对于彦坤说的任何话，我就像哈桑信阿米尔一样，深信不疑</p>
+<p>我坤，我们把彼此都已经毫无保留地孤注一掷地交给对方了，一定要对对方负责到底</p>
+<p>最初最煎熬的日子都过来了已形成习惯，以后的时光早已无所谓坚持，只是习惯而已。就像喝水看书，和你在一起是生命中必做的一件事。</p>
+<p>最羞于启齿的一句话，第一次对你说，之前不说不是因为不爱你，而是，很爱很爱你。</p>
+</body>
+</html>
